@@ -1,0 +1,22 @@
+h2 {
+  display: inline-block;
+}
+.amount,
+.tip {
+  font-size: 20px;
+}
+.amount {
+  margin-left: 40px;
+}
+.tip {
+  margin-left: 65px;
+}
+.btn {
+  font-size: 20px;
+  margin-top: 20px;
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 15px;
+  margin-left: 280px;
+}
